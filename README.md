@@ -106,10 +106,10 @@ export default defineComponent({
 
 ```
 # use npm
-npm i andrea-kyurchiev/vue3-blocks-tree
+npm i https://github.com/andrea-kyurchiev/vue3-blocks-tree
 
 # use yarn
-yarn add andrea-kyurchiev/vue3-blocks-tree
+yarn add https://github.com/andrea-kyurchiev/vue3-blocks-tree
 ```
 ### Import Plugins
 
